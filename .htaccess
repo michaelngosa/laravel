@@ -2,4 +2,8 @@
     RewriteEngine on
     RewriteCond %{REQUEST_URI} !^public
     RewriteRule ^(.*)$public/$1 [L]
+<<<<<<< HEAD
 </IfModule>
+=======
+</IfModule>
+>>>>>>> 8f616eaafb8f259c97e8f85b13c3dadd918e0ee0
