@@ -1,4 +1,4 @@
 # laravel crud
 
-#Link
+#Link to project
 https://laravel-zuri.herokuapp.com/students
